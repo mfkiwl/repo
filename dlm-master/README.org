@@ -1,0 +1,17 @@
+* DLM toolbox for Matlab
+
+This is a collection of Matlab files for Dynamic Linear Model calculations suitable for time series analysis. The code supplements the article M. Laine, N. Latva-Pukkila and E. Kyrölä: /Analyzing time-varying trends in stratospheric ozone time series using state the space approach/, in Atmospheric Chemistry and Physics 14(18), 2014, [[http://dx.doi.org/10.5194/acp-14-9707-2014][doi: 10.5194/acp-14-9707-2014]].
+
+See https://mjlaine.github.io/dlm/ for details.
+
+Some functions depend on my MCMC toolbox, available at
+https://github.com/mjlaine/mcmcstat. 
+
+marko.laine@fmi.fi
+
+#+DESCRIPTION: DLM toolbox readme file
+#+LANGUAGE: en
+#+TITLE: 
+#+OPTIONS: H:3 \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS: TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+OPTIONS: title:nil num:nil toc:nil ^:{} creator:nil author:nil
